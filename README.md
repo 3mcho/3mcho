@@ -5,12 +5,12 @@
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hi 👋, I'm Lucio Sandoval</h1>
-<h3 align="center">A passionate programming student</h3>
+<h1 align="center">Hola 👋, Soy Lucio Sandoval</h1>
+<h3 align="center">Soy un estudiante de ingenieria en sistemas computacionales que le encanta la programacion</h3>
 
-- 💬 Ask me about **Python, c#, MySQL**
+- 💬 Preguntame **Python, c#, MySQL**
 
-- 📫 How to reach me **lucioem.sandoval@gmail.com**
+- 📫Correo electronico **lucioem.sandoval@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
